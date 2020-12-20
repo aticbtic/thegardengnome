@@ -10,5 +10,5 @@ permalink: /seeds/
 |Name |Location |
 |------------------|-------------------|
 |[Territorial Seed Company](https://territorialseed.com/)| Cottage Grove, OR |
-|[Siskiyou (https://www.siskiyouseeds.com/) | Siskiyous, OR |
+|[Siskiyou](https://www.siskiyouseeds.com/) | Siskiyous, OR |
 
