@@ -9,10 +9,15 @@ permalink: /seeds/
 
 |Name |Location |
 |------------------|-------------------|
-|[Territorial Seed Company](https://territorialseed.com/)| Cottage Grove, OR |
-|[Siskiyou Seeds](https://www.siskiyouseeds.com/) | Siskiyous, OR |
+|[Territorial Seed Company](https://territorialseed.com/){:target="_blank"}| Cottage Grove, OR |
+|[Siskiyou Seeds](https://www.siskiyouseeds.com/){:target="_blank"} | Siskiyous, OR |
+|------------------|-------------------|
 
 ## California
-|Name |Location |
-|------------------|-------------------|
-|[Mary's Heirloom Seeds](https://www.marysheirloomseeds.com/)| Ramona, CA |
+
+<table>
+<tr><th>Name</th><th>Location</th></tr>
+<tr><td><a href="https://www.marysheirloomseeds.com/" target="_blank">Mary's Heirloom Seeds</a></td>  
+    <td>Ramona, CA</td> 
+</tr>
+</table>
