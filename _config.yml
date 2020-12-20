@@ -30,8 +30,8 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 header_pages:
-  - about.md
-  - seeds.md
+  - about.markdown
+  - seeds.markdown
 
 # Build settings
 theme: minima
