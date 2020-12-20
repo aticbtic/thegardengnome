@@ -1,5 +1,5 @@
 ---
 layout: page
 title: Seeds
-permalink: /Seeds/
+permalink: /seeds/
 ---
