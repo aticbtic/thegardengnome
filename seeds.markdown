@@ -3,12 +3,16 @@ layout: page
 title: Seeds
 permalink: /seeds/
 ---
-# H1 Seed Companies
+# Seed Companies
 
-## 2 Oregon
+## Oregon
 
 |Name |Location |
 |------------------|-------------------|
 |[Territorial Seed Company](https://territorialseed.com/)| Cottage Grove, OR |
-|[Siskiyou](https://www.siskiyouseeds.com/) | Siskiyous, OR |
+|[Siskiyou Seeds](https://www.siskiyouseeds.com/) | Siskiyous, OR |
 
+## California
+|Name |Location |
+|------------------|-------------------|
+|[Mary's Heirloom Seeds](https://www.marysheirloomseeds.com/)| Ramona, CA |
