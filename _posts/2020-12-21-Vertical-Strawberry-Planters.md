@@ -11,11 +11,11 @@ This morning, I bought a couple of four foot pipes from Home Depot.  I have an i
 Ok, the four foot conduit pipes used for sprinkler system was a bit too flexible.  I replaced those with 3/4 inch PVC pipes.  
 
 ### Items used:
-2x 6 ft PVC 3/4" pipes
-A couple of 3/4" straps
-Screws
-1x Wood (2 x 4)
-1x Wood Post (4 x 4)
+- 2x 6 ft PVC 3/4" pipes
+- A couple of 3/4" straps
+- Screws
+- 1x Wood (2 x 4)
+- 1x Wood Post (4 x 4)
 
 ## Step 1:  Drill 3/4 inch hole on the post about 1/4 inch deep.  This hole is to fit one end of the PVC pipe.  This allows the pipes to be removable.
 ![]({{ site.baseurl }}/assets/img/strawberry_planter/20201224_1.jpg)
