@@ -8,6 +8,15 @@ For the past few years, we've had strawberries in the backyard but we've never h
 
 This morning, I bought a couple of four foot pipes from Home Depot.  I have an idea on what I'd like to create in order to hang planting bags on them.
 
+Ok, the four foot conduit pipes used for sprinkler system was a bit too flexible.  I replaced those with 3/4 inch PVC pipes.  
+
+### Items used:
+2x 6 ft PVC 3/4" pipes
+A couple of 3/4" straps
+Screws
+1x Wood (2 x 4)
+1x Wood Post (4 x 4)
+
 ## Step 1
 ![]({{ site.baseurl }}/assets/img/strawberry_planter/20201224_1.jpg)
 
